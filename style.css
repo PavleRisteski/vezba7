@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color:blue;
+}
+header img{
+    width: 70px;
+    height: 70px;
+}
+h1{
+    text-align: center;
+}
+.slika{
+    color:orange;
+    font-size: 30px;
+}
+ul{
+    list-style:url("https://learn.alg.academy/uploads/2021/01/Arrow%201_0_1611261359.svg")
+}
+.tekst{
+    text-align: center;
+    border-top: 4px solid black;
+    border-bottom: 4px solid black;
+    padding: 40px;
+    font-size: 40px;
+    color: black;
+}
+footer{
+    background-color: blue;
+    color: white;
+    padding: 10px;
+}
